@@ -6,12 +6,6 @@
 - **React** - *for the frontend*
 - **thirdweb** - *thirdweb used for Connect Wallet button*
 
-**Deployed on Goerli Network:** 
-
-`NFT Custom URI:` https://goerli.etherscan.io/address/0x17C091d743b8919DFf686C429D04D75E4251808C
-
-`Token Devaluation Insurance:` https://goerli.etherscan.io/address/0x460ef52728224A468efb1a9aAE8fe4129d9AB294
-
 ## Use Case
 
 With the rapid growth of decentralized finance (DeFi), it's crucial to ensure that your assets are protected against potential risks. Our platform offers comprehensive insurance solutions that safeguard your assets in the event of hacks, smart contract failures, and other unforeseen events.
