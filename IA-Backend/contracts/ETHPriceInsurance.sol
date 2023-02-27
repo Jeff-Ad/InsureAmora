@@ -106,7 +106,7 @@ contract EthPriceInsurance is Ownable, ReentrancyGuard {
     /// @dev DYNAMIC METADATA stores the "price", "duration" and "portfolio" insured onchain!
     /// @param _price is the ETH price a user wants to insure against
     /// @param _timeDuration the number of days the user wants cover to run(must not be lesser than 30 days)
-    /// @param _portfolioValue is the portfolio size of the user. This determines amount to be paid as premium
+    /// @param _porfolioValue is the portfolio size of the user. This determines amount to be paid as premium
     function createPolicyAgreement(
         uint256 _price,
         uint256 _timeDuration,

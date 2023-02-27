@@ -1,9 +1,9 @@
-import React, { useState } from 'react';
+import React, { useState } from "react";
 
 function Ethform() {
-  const [num1, setNum1] = useState('');
-  const [num2, setNum2] = useState('');
-  const [num3, setNum3] = useState('');
+  const [num1, setNum1] = useState("");
+  const [num2, setNum2] = useState("");
+  const [num3, setNum3] = useState("");
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -11,9 +11,9 @@ function Ethform() {
   };
 
   const handleReset = () => {
-    setNum1('');
-    setNum2('');
-    setNum3('');
+    setNum1("");
+    setNum2("");
+    setNum3("");
   };
 
   return (
