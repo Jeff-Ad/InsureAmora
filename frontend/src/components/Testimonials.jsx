@@ -16,7 +16,7 @@ const Testimonials = () => (
 
       <div className="w-full md:mt-0 mt-6">
         <p className={`${style.paragraph} text-left max-w-[450px]`}>
-          THEBA INSURA Decentralize Application... Designed and developed by The BlocAmora
+          INSUREAMORA Decentralized Application... Designed and developed by The BlocAmora
           team.
         </p>
       </div>
